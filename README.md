@@ -28,7 +28,7 @@ Various setups are possible to reproduce, these notes assume minimal setup done 
 \
 5. Start the notebook by issuing this command
 ```bash
-  j	
+  jupyter notebook Analyze_ab_test_results_notebook.ipynb	
 ```
 
 This should open the notebook and allow you to start the analysis.  The terminal window where you start the notebook will remain running as you manipulate the notebook a browser.  To stop the notebook, hit `Control-C`.   To deactive the Anaconda environment after stoping the notebook, use this command
